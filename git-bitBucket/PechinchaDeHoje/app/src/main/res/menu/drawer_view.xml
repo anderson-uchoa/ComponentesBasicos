@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+
+<group android:checkableBehavior="single">
+    <item
+        android:id="@+id/nav_first_fragment"
+        android:icon="@drawable/ticket_confirmation"
+        android:title="Pechinchas" />
+    <item
+        android:id="@+id/nav_second_fragment"
+        android:icon="@drawable/cart_outline"
+        android:title="Minhas Pechichas" />
+
+    <item
+        android:icon="@drawable/comment_question_outline"
+        android:title="Como Funciona ?" />
+    <item
+        android:icon="@drawable/help_circle_outline"
+        android:title="Atendimento e Suporte" />
+    <item
+        android:icon="@drawable/wrench"
+        android:title="Configurações" />
+
+
+</group>
+
+    </menu>

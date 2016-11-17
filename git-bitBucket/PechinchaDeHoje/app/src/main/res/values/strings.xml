@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Pechincha De Hoje</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nenhuma_oferta_proxima">Nenhuma oferta próxima</string>
+    <string name="msg_ativar_localizacao">Ative sua localização para uma melhor experiência</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="cadastroOuLogin">Cadastre-se ou Faça Login</string>
+    <string name="email">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="loginPechincha">Login Pechincha de Hoje</string>
+    <string name="entrar">ENTRAR</string>
+    <string name="criarConta">CRIAR MINHA CONTA</string>
+
+</resources>
